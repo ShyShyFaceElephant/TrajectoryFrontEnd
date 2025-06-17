@@ -4,6 +4,13 @@ TrajectoryAPP 是一套基於深度學習的 **腦年齡與失智症預測平台
 
 ---
 
+## 🧩 系統架構圖
+
+系統分為「前端」與「後端」，並包含 AI 模型推論流程。如下圖所示：
+
+![Trajectory 系統架構圖](./architecture.png)
+---
+
 ## 🚀 核心功能介紹
 
 ### 🧪 腦年齡預測（Brain Age Estimation）
